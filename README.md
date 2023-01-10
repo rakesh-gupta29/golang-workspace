@@ -1,3 +1,3 @@
 ## Golang Workspace
 
-Workspace for general purpose assets and assets
+Workspace for general purpose tasks and assets
